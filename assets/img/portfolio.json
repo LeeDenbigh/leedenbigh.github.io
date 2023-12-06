@@ -1,0 +1,11 @@
+[
+    {
+        "Name" : "Interactive CV",
+        "Platform" : "Desktop",
+        "Year" : "2023",
+        "Link" : "https://github.com/LeeDenbigh/LeeDenbighsInteractiveCV/releases/tag/1.0.4",
+        "Description" : "A simple interactive CV, to show off some of my skills.",
+        "Available" : true,
+        "ImageURL" : "https://raw.githubusercontent.com/LeeDenbigh/leedenbigh.github.io/main/assets/img/soundbloom.png"
+    }
+]
